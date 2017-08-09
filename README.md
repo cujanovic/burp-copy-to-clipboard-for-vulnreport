@@ -19,5 +19,11 @@ Based on: https://github.com/salesforce/vulnreport/blob/master/vulnreport.jar
 
 ***
 
+### Download:
+
+https://github.com/cujanovic/burp-copy-to-clipboard-for-vulnreport/releases
+
+***
+
 ### Documentation
 http://vulnreport.io/documentation
